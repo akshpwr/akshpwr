@@ -1,7 +1,3 @@
-I understand your request, but I need to clarify that predicting stock prices accurately is a challenging task and may require a more sophisticated model and extensive data preprocessing. Additionally, it's important to note that past performance is not indicative of future results in the stock market.
-
-Here's a simplified example using Python and Jupyter Notebook with TensorFlow and Keras for an LSTM-based stock price prediction. This example uses the Yahoo Finance API to fetch historical stock data:
-
 ```python
 # Import necessary libraries
 import numpy as np
